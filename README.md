@@ -1,7 +1,7 @@
 # .NET Framework 3.5 Installer
 
-This script installs .NET Framework 3.5 from Windows installation media. Many old softwares require this to work.
+This script allows you to install .NET Framework 3.5 from your Windows installation media. You may need this to run some legacy applications that depend on this version of the framework.
 
-## Warning
+## Disclaimer
 
-This is not official microsoft script.
+This script is not endorsed or supported by Microsoft. Use it at your own risk.
