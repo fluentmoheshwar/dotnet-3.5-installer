@@ -6,6 +6,6 @@ This script allows you to install .NET Framework 3.5 from your Windows installat
 
 This script is not endorsed or supported by Microsoft. Use it at your own risk.
 
-## Download
+## Downloads
 
 [Download](https://github.com/fluentmoheshwar/dotnet-3.5-installer/releases/latest)
